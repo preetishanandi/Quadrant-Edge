@@ -1,0 +1,271 @@
+.courses .box1{
+   height: 350px;
+   width:300px;
+   text-align: center;
+   background-color:#c6ddd0;
+   overflow: hidden;
+   margin-top: 2.5rem;
+   margin-left: 1rem;
+   margin-bottom: 1rem;
+   
+}
+.courses .box1 img{
+   height: 250px;
+   width: 270px;
+   object-fit:contain;
+}
+
+.courses .box2{
+   height: 350px;
+   width:300px;
+   text-align: center;
+   background-color:#c6ddd0;
+   overflow: hidden;
+   margin-top: 2.5rem;
+   margin-left: 1rem;
+   margin-bottom: 1rem;
+}
+
+
+.courses .box2 img{
+   height: 250px;
+   width: 270px;
+   object-fit:contain;
+}
+
+.courses .box3{
+   height: 350px;
+   width:300px;
+   text-align: center;
+   background-color:#c6ddd0;
+   overflow: hidden;
+   margin-top: 2.5rem;
+   margin-left: 1rem;
+   margin-bottom: 1rem;
+}
+.courses .box3 img{
+   height: 250px;
+   width: 270px;
+   object-fit:contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------Profile Tab-----------------------*/
+
+.intro{
+   display: flex;
+   height: 120px;
+   margin-top: 3.5rem;
+   width: 100%;
+   background-color:#14b444;
+   background-size: cover;
+   background-position: center;
+   background-repeat:no-repeat;
+   position: relative;
+   border-bottom: 3px solid rgb(68, 240, 34);
+}
+.intro .profile img{
+   display:block;
+   border-radius: 50%;
+   height: 150px;
+   width: 150px;
+   background-color: #fff;
+   margin-left: -9rem;
+   margin-right: 1.5rem;
+   margin-top: 3.5rem;
+} 
+.intro .pr h2{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 25px;
+   font-weight: bold;
+   color: #fff;
+   margin-top: 1rem;
+   
+}
+.intro .pr p{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 17px;
+   color: #fff;
+   margin-left: 0rem;
+   margin-top: .2rem;
+   margin-bottom: 2rem;
+   
+}
+
+.report{
+   display: grid;
+   grid-template-rows: auto 1fr 1fr ;
+   min-height: 30vh;
+   margin-top: 2.5rem;
+   margin-left: 2rem;
+   width: 40%;
+   background-color:#fff;
+   background-size: cover;
+   background-repeat:no-repeat;
+   border-radius: 2%;
+   position: relative;
+}
+.heading{
+   background-color: rgb(34, 190, 190);
+   padding: 45px;
+   text-align: center;
+   font-size: 10px;
+}
+.report .report-head{
+   display: flex;
+   position: relative;
+}
+.report .report-head img{
+   border-radius: 50%;
+   height: 150px;
+   width: 150px;
+   margin-top: -4rem;
+   margin-left: 1.5rem;
+}
+.report p1{
+   display: flex;
+   
+   margin-left: 1.5rem;
+   margin-top: 1rem;
+   font-size: 20px;
+   font-weight: bold;
+   font-family:Arial, Helvetica, sans-serif;
+}
+.report p{
+   display: flex;
+   margin-left: 1.5rem;
+   margin-top: 0rem;
+   font-size: 15px;
+   font-weight: normal;
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.report-card{
+   margin-bottom: 1rem;
+   margin-top: 0rem;
+
+}
+
+.report .report-card h2{
+   height:20px;
+  width:20px;
+  margin-left: 2.5rem;
+  margin-top: 1rem;
+  color:#195e86;
+  font-size: 20px;
+  border-radius: 50%;
+  background-color:#c1ccc5;
+  padding:4rem 4rem;
+  text-align: left;
+  justify-content:left;
+}
+
+.report-card {
+  display: grid;
+  grid-template-rows: repeat(5, 10px); /* Creates 5 thin rows */
+  gap: 30px; /* Space between each row */
+  height: 20vh; /* Full viewport height */
+  align-items: center;/* Center vertically */
+  margin-bottom: 10%;
+  
+}
+
+.grid-line {
+  display:flex ;
+  background-color: #fff; /* Line color */
+  width: 55%; /* Full width */
+  margin-left: 16rem; 
+  margin-top: -15rem;
+  justify-content: left;
+  gap:2rem;
+}
+.grid-line p{
+   font-size: 20px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: bolder;
+   color: #3c4146;
+}
+.grid-line .cube1{
+  background-color:#c9cec5;
+  border-radius: 0.2rem;
+  padding: .5rem;
+  width:20px;
+  height:20px;
+}
+.grid-line .cube2{
+  background-color: #c9cec5;
+  border-radius: 0.2rem;
+  padding: .5rem;
+  width:20px;
+  height:20px;
+}
+.grid-line .cube3{
+  background-color:#c9cec5;
+  border-radius: 0.2rem;
+  padding: .5rem;
+  width:20px;
+  height:20px;
+}
+.grid-line .cube4{
+  background-color:#c9cec5;
+  border-radius: 0.2rem;
+  padding: .5rem;
+  width:20px;
+  height:20px;
+}
+
+.grid-line .cube5{
+  background-color:#c9cec5;
+  border-radius: 0.2rem;
+  padding: .5rem;
+  width:20px;
+  height:20px;
+}
+
+
+
+
+.digital-courses{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(20rem,10fr) );
+   /*border: 3px solid #2273dd;*/
+   border-radius: 5px 5px 0 0;
+   background-color:transparent;
+   gap:2px;
+   justify-content: center;
+   align-items:center;
+   margin-top: -0.7rem;
+   margin-left: 20rem;
+   margin-bottom: 0rem;
+   margin-right: 0rem;
+}
+.digital-courses .box4{
+   height: 350px;
+   width:300px;
+   text-align: center;
+   background-color:#c6ddd0;
+   overflow: hidden;
+   margin-top: 2.5rem;
+   margin-left: 1rem;
+   margin-bottom: 1rem;
+}
+
+.about .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+   gap:1.5rem;
+   justify-content: center;
+   align-items: flex-start;
+   margin-top: 3rem;
+}
