@@ -660,6 +660,15 @@ nav img{
    display: flex;
    height: 85vh;
 }
+.customer .collections{
+   background-color: #dbeceb;
+   width:25%;
+   height: 85vh;   
+   top: 3; left: 0; bottom: 0; 
+   padding: 20px;
+   
+   
+}
 
 .collections{
    background-color: #dbeceb;
