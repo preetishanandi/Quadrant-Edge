@@ -19,7 +19,7 @@
    text-decoration: none;
 }
 body{
-   min-height: 85vh;
+   min-height: 100vh;
    width:100%;
    /*background-color: #defae7*/
    background-image: linear-gradient(rgba(4,8,30,0.5),rgba(4,8,30,0.5)),url(images/pic-14.png);
@@ -28,7 +28,7 @@ body{
 }
 
 .header{
-   height: 15vh;
+   height: 20vh;
    width: 100%;
    background: linear-gradient(to right, #f8e6d5, #100d6d);
    background-position: center;
