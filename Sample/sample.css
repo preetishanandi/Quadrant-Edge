@@ -362,14 +362,14 @@ nav img{
    border-radius: .5rem;
    overflow: hidden;
    margin-top: 2.5rem;
-   margin-left: 1rem;
+   margin-left: 2rem;
    margin-bottom: 1rem;
    position: absolute;
    
 }
 .popular-courses .box1 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
@@ -388,7 +388,7 @@ nav img{
 
 .popular-courses .box2 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
@@ -405,7 +405,7 @@ nav img{
 }
 .popular-courses .box3 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
@@ -423,7 +423,7 @@ nav img{
 }
 .popular-courses .box4 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
@@ -494,7 +494,7 @@ nav img{
 
 .recomend-courses .box1{
    height: 330px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
@@ -506,13 +506,13 @@ nav img{
 }
 .recomend-courses .box1 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
 .recomend-courses .box2{
    height: 330px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: 0.5rem;
@@ -525,13 +525,13 @@ nav img{
 
 .recomend-courses .box2 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
 .recomend-courses .box3{
    height: 330px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
@@ -542,13 +542,13 @@ nav img{
 }
 .recomend-courses .box3 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
 .recomend-courses .box4{
    height: 330px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
@@ -560,7 +560,7 @@ nav img{
 }
 .recomend-courses .box4 img{
    height: 250px;
-   width: 300px;
+   width: 260px;
    object-fit:contain;
 }
 
@@ -600,7 +600,7 @@ nav img{
 .courses .ss1 p{
    font-size: 17px;
    text-align: center; 
-   margin-left: -2.5rem;
+   margin-left: -1.5rem;
    margin-top: -0.5rem;
 }
 .courses .ss1 i{
@@ -620,8 +620,8 @@ nav img{
 }
 
 .courses .box4{
-   height: 380px;
-   width:300px;
+   height: 400px;
+   width:260px;
    text-align: center;
    background-color:#f0e5e5;
    overflow: hidden;
@@ -634,7 +634,7 @@ nav img{
 }
 .courses .box4 img{
    height: 250px;
-   width: 270px;
+   width: 230px;
    object-fit:contain;
 }
 
@@ -962,7 +962,7 @@ nav img{
    display: flex;
    flex-direction: column;
    align-items: left;
-   margin-left: 4.5rem;
+   margin-left: 1.5rem;
    margin-bottom: 3.5rem;
    gap: 20px;
    margin-top: 50px;
@@ -1004,7 +1004,7 @@ nav img{
   display:flex ;
   background-color: #dfdff5; /* Line color */
   width: 55%; /* Full width */
-  margin-left: 16rem; 
+  margin-left: 13rem; 
   margin-top: -15rem;
   justify-content: left;
   gap:2rem;
@@ -1061,6 +1061,7 @@ nav img{
    margin: 20px;
    border-radius: 2rem;
    margin-top: 3.5rem;
+   margin-right: 3rem;
 }
 
 .dailyLearningTime canvas{
