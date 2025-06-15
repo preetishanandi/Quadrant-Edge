@@ -666,10 +666,11 @@ nav img{
    background-color: #dbeceb;
    position: fixed;
    width:25%;
-   height: 100vh;
-   top: 3; left: 0; bottom: 0; 
+   height: 85vh;
+   top: 0; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
+   margin-top: 0;
    
    
 }
