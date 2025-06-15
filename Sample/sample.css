@@ -28,7 +28,7 @@ body{
 }
 
 .header{
-   height: 20vh;
+   height: 15vh;
    width: 100%;
    background: linear-gradient(to right, #f8e6d5, #100d6d);
    background-position: center;
@@ -659,14 +659,14 @@ nav img{
 .customer{
    display: flex;
    height: 85vh;
+   overflow-y: hidden;
    
 }
 .customer .collections{
    background-color: #dbeceb;
    position: fixed;
    width:25%;
-   height: 85vh;  
-   height:90%
+   height: 100vh;
    top: 3; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
