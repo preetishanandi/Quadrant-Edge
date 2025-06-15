@@ -663,11 +663,12 @@ nav img{
 }
 .customer .collections{
    background-color: #dbeceb;
+   position: fixed;
    width:25%;
-   height: 85vh;   
+   height: 100vh;   
    top: 3; left: 0; bottom: 0; 
    padding: 20px;
-   overflow: hidden;
+   overflow-y: hidden;
    
    
 }
@@ -724,7 +725,7 @@ nav img{
 .modules {
    padding:15px;
    height: 610px;
-   width:80%;
+   width:75%;
    overflow-y: auto;
    overflow-x: hidden;
    
