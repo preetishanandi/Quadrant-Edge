@@ -659,7 +659,7 @@ nav img{
 .customer{
    display: flex;
    height: 85vh;
-   height:85%;
+   height:90%;
 }
 .customer .collections{
    background-color: #dbeceb;
