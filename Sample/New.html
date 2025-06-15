@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Qudrant Edge</title>
+   <link rel="icon" href="images/Logo-5.png" type="image/png"> 
+
+   <!-- font awesome cdn link  -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+   <!-- custom css file link  -->
+   <link rel="stylesheet" href="login.css">
+
+</head>
+<body>
+
+    <header class="header"> 
+        
+        <a href="dashboard.html" class="logo"><img src="images/Logo-4.png" class="image" alt=""></a>
+        
+    </header>
+
+    <div class="register-box">
+        <h2>Create an account</h2>
+        <form onsubmit="return handleSubmit(event)">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required autocomplete="off">
+
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" placeholder="Enter username" required autocomplete="off">
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" placeholder="Enter password" required autocomplete="off">
+
+            <button type="submit">Register</button>
+
+            <a href="login.html"><p>Log into existing account</p></a>
+            
+        </form>
+    </div>
