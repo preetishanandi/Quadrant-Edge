@@ -659,6 +659,7 @@ nav img{
 .customer{
    display: flex;
    height: 85vh;
+   height:100%;
 }
 .customer .collections{
    background-color: #dbeceb;
@@ -666,6 +667,7 @@ nav img{
    height: 85vh;   
    top: 3; left: 0; bottom: 0; 
    padding: 20px;
+   overflow: hidden;
    
    
 }
@@ -754,7 +756,7 @@ nav img{
 
 
 .modules .xyz .box4 img{
-   height: 220px;
+   height: 180px;
    width: 280px;
    
    
