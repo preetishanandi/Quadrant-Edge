@@ -670,7 +670,7 @@ nav img{
    top: 0; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
-   margin-top: -5.8rem;
+   margin-top: 5.5rem;
    
    
 }
@@ -725,6 +725,7 @@ nav img{
 
 
 .modules {
+   display:flex;
    padding:15px;
    height: 610px;
    width:75%;
@@ -739,7 +740,7 @@ nav img{
    grid-template-columns:  repeat(3,1fr);
    gap: 1rem;
    padding: 1rem ;
-   margin-top: 1rem;
+   margin-top: 2rem;
    justify-content: center; 
       
    
@@ -752,7 +753,7 @@ nav img{
    background-color:#dfe4f8;
    overflow: hidden;
    margin-right:2rem;
-   margin-top: 1rem;
+   margin-top: 2rem;
    border-radius: .3rem;
    box-shadow: inset 0 0 10px black;
          
