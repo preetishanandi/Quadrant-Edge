@@ -670,7 +670,7 @@ nav img{
    top: 0; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
-   margin-top: 6rem;
+   margin-top: -5.8rem;
    
    
 }
@@ -725,7 +725,6 @@ nav img{
 
 
 .modules {
-   display:flex;
    padding:15px;
    height: 610px;
    width:75%;
