@@ -19,7 +19,7 @@
    text-decoration: none;
 }
 body{
-   min-height: 100vh;
+   min-height: 85vh;
    width:100%;
    /*background-color: #defae7*/
    background-image: linear-gradient(rgba(4,8,30,0.5),rgba(4,8,30,0.5)),url(images/pic-14.png);
