@@ -665,7 +665,7 @@ nav img{
    background-color: #dbeceb;
    position: fixed;
    width:25%;
-   height: 100vh;   
+   height: 85vh;   
    top: 3; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
@@ -726,6 +726,7 @@ nav img{
    padding:15px;
    height: 610px;
    width:75%;
+   margin-left:25%;
    overflow-y: auto;
    overflow-x: hidden;
    
@@ -738,6 +739,7 @@ nav img{
    padding: 1rem ;
    margin-top: 1rem;
    justify-content: center; 
+   margin-left:25%;
    
    
 }
