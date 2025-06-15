@@ -289,7 +289,7 @@ nav img{
 }
 
 .box-container p{
-   font-size: 18px;
+   font-size: 20px;
    color:#fff;
    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-weight: bold;
@@ -356,7 +356,7 @@ nav img{
 
 .popular-courses .box1{
    height: 350px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
@@ -375,7 +375,7 @@ nav img{
 
 .popular-courses .box2{
    height: 350px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: 0.5rem;
@@ -394,7 +394,7 @@ nav img{
 
 .popular-courses .box3{
    height: 350px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
@@ -411,7 +411,7 @@ nav img{
 
 .popular-courses .box4{
    height: 350px;
-   width:330px;
+   width:280px;
    text-align: center;
    background-color:#c6ddd0;
    border-radius: .5rem;
