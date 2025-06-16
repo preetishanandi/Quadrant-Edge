@@ -739,7 +739,7 @@ nav img{
    display: grid;
    grid-template-columns:  repeat(3,1fr);
    padding: 1rem ;
-   margin-top: -2rem;
+   margin-top: 0rem;
    justify-content: left; 
       
    
