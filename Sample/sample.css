@@ -727,7 +727,7 @@ nav img{
 .modules {
    display:flex;
    padding:15px;
-   height: 610px;
+   height: 700px;
    width:75%;
    margin-left:25%;
    overflow-y: auto;
@@ -738,9 +738,7 @@ nav img{
 .modules .xyz{
    display: grid;
    grid-template-columns:  repeat(3,1fr);
-   gap: 1rem;
-   padding: 1rem 2rem ;
-   margin-top: 1rem;
+   padding: 1rem ;
    justify-content: left; 
       
    
@@ -751,7 +749,6 @@ nav img{
    width:280px;
    text-align: left;
    background-color:#dfe4f8;
-   overflow: hidden;
    margin-right:2rem;
    margin-top: 2rem;
    border-radius: .3rem;
