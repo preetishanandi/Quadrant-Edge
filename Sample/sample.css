@@ -592,7 +592,7 @@ nav img{
 }
 .courses p{
    margin-left: 1rem;
-   margin-top: -1rem;
+   margin-top: -2rem;
 }
 .courses .ss1 {
    text-align: left;   
@@ -614,13 +614,13 @@ nav img{
  
 .courses .ss2 {
    display:flex;
-   margin-top: 1.3rem;
+   margin-top: 2rem;
    align-items: center;
    
 }
 
 .courses .box4{
-   height: 400px;
+   height: 380px;
    width:260px;
    text-align: center;
    background-color:#f0e5e5;
@@ -670,7 +670,7 @@ nav img{
    top: 0; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
-   margin-top: 5.5rem;
+   margin-top: 5.6rem;
    
    
 }
@@ -739,7 +739,7 @@ nav img{
    display: grid;
    grid-template-columns:  repeat(3,1fr);
    gap: 1rem;
-   padding: 1rem ;
+   padding: 1rem 2rem ;
    margin-top: 2rem;
    justify-content: center; 
       
