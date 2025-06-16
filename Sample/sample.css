@@ -670,7 +670,7 @@ nav img{
    top: 0; left: 0; bottom: 0; 
    padding: 20px;
    overflow-y: hidden;
-   margin-top: 5.6rem;
+   margin-top: 5.8rem;
    
    
 }
@@ -740,7 +740,7 @@ nav img{
    grid-template-columns:  repeat(3,1fr);
    gap: 1rem;
    padding: 1rem 2rem ;
-   margin-top: 2rem;
+   margin-top: 1rem;
    justify-content: center; 
       
    
@@ -756,6 +756,7 @@ nav img{
    margin-top: 2rem;
    border-radius: .3rem;
    box-shadow: inset 0 0 10px black;
+   margin-left: 1rem;
          
 }
 
