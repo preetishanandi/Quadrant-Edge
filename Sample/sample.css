@@ -727,7 +727,7 @@ nav img{
 .modules {
    display:flex;
    padding:15px;
-   height: 700px;
+   height: 100%;
    width:75%;
    margin-left:25%;
    overflow-y: auto;
